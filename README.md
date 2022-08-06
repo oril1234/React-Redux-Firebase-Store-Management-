@@ -21,7 +21,7 @@ To Visit App:
 
 `localhost:3000`
 
-##React Components Hierarchy
+## React Components Hierarchy
 ![_דיאגרמה ללא שם_ drawio (1)](https://user-images.githubusercontent.com/49225452/183266904-b5bc2dea-320c-454c-b846-91c22903306d.png)
 
 
