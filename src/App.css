@@ -35,4 +35,33 @@
   to {
     transform: rotate(360deg);
   }
+
+
+}
+
+
+
+.Purchased-By-Div
+{
+  display: block;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.Purchased-By-Div ul 
+{
+  display: inline-block
+}
+
+.Edit-Product-Input-Div,.Edit-Customer-Input-Div label
+{
+  display: inline-block;
+  width: 150px;
+  text-align: right;
+}
+
+.Edit-Product-Input-Div, .Edit-Customer-Input-Div input
+{
+  width:200px;
+  
 }
