@@ -1,5 +1,5 @@
 # React-Redux-Firebase-Store-Management-
-A React project of a department store management in which products, customers and purchases data is handled by the user.
+A React project of a department store management in which products, customers and purchases data is handled by the user, stored in firebase collections, and accessible across multiple components using redux.
 The user can:
 - purchase products in the name of customers
 - edit customers and products details, as well as deleting them
