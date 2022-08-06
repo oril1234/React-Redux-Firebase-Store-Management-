@@ -28,7 +28,7 @@ To Visit App:
   - Products:id,name,price, quantity
   - Customers:id,firstName, lastName, city
    - Purchases:productId,customerId,date
-4. create an API in the firebase project, and take the values mentioned in the screenshot
+4. create an API in the firebase project, use the fields mentioned in the screenshot created in the api and paste them in firebaseApp.js file
 ![image](https://user-images.githubusercontent.com/49225452/183229237-9ff3d9c5-3d9b-4dd0-aeb6-010909da9793.png)
 
 
