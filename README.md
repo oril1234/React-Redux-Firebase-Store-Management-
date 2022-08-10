@@ -22,7 +22,8 @@ To Visit App:
 `localhost:3000`
 
 ## React Components Hierarchy
-![_דיאגרמה ללא שם_ drawio (1)](https://user-images.githubusercontent.com/49225452/183266904-b5bc2dea-320c-454c-b846-91c22903306d.png)
+![_דיאגרמה ללא שם_ drawio (2)](https://user-images.githubusercontent.com/49225452/183943645-0f90a5b0-dc3a-44d7-ad4f-0c36340242cf.png)
+
 
 
 ## firebase configuration:
