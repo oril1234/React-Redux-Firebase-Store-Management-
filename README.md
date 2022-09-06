@@ -4,7 +4,7 @@ The user can:
 - purchase products in the name of customers
 - edit customers and products details, as well as deleting them
 - filter purchases data by specific customers, products and dates.
-The information in this app is handled using firestore database of firestore, and redux.
+The information in this app is handled using firebase database of firestore, and redux.
 ## Setup And Installation
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.
